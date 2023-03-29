@@ -6,5 +6,5 @@
 <p>Using the duplicated function to find the doubled g898 records.
 <p><b>Sources</b><ul><li>
 https://stackoverflow.com/questions/46640945/grouping-by-multiple-columns-to-find-duplicate-rows-pandas</li>
-><li>I did reach ouit to Andrew Fellows, another student on the course, when I was unable to use the drop_duplicates functoin to clean the data. He suggested .loc function. His solution was slightly different to mine, but he dug me out of the trench.</li></ul>
-><li>https://pbpython.com/groupby-agg.html - using groupby and aggregation methods in a variety of scenarios. Used to ensure syntax correct.</li></ul>
+<li>I did reach ouit to Andrew Fellows, another student on the course, when I was unable to use the drop_duplicates functoin to clean the data. He suggested .loc function. His solution was slightly different to mine, but he dug me out of the trench.</li>
+<li>https://pbpython.com/groupby-agg.html - using groupby and aggregation methods in a variety of scenarios. Used to ensure syntax correct.</li>
