@@ -1,5 +1,5 @@
 # Module_5_challenge_Mouse_Study<p>
-<p><b>Module_5 assignment for data visualisation in pandas dataframe - method and sources<b></p>
+<p><b>Module_5 assignment for data visualisation in pandas dataframe - method and sources</b></p>
 <p>This is a fictional dataset of a clinical drugs study using mice as test subjects. We are asked to produce a clean dataframe and undertake a statistical analysis of the results</p>
 <p>There are two source csv files which have been retrieved by the source code and put into dataframes. I have printed off a preview of both dataframes to workout how best to merge them.</p>
 <p>Used a left merge with the "test results: data frame being the left table and the metadata for the mice being the right table.
